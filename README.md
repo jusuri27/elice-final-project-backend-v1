@@ -60,6 +60,38 @@
 
 
 ---
+### 📌담당한 기능
+## 급여
+## 1. 급여 데이터 엑셀 다운로드  
+- 부서별, 개인별 선택 가능  
+- 연도별, 월별 선택 가능  
+- 선택된 조건에 맞는 집계 데이터를 엑셀 파일로 다운로드  
+
+### (월별, 개인) - 엑셀 통계
+https://github.com/user-attachments/assets/12ad22be-4f3e-475d-978e-51e60c323b68
+
+### (연도별, 부서) - 엑셀 통계
+https://github.com/user-attachments/assets/ebc3df87-b2f5-43fd-b899-1f6a3462bd00
+
+## 2. 급여 엑셀 업로드
+- 엑셀 파일을 통해 급여 추가 대상 사원의 정보를 입력  
+- 추가 화면을 통한 단건 추가가 아닌 대량 데이터 업로드 지원
+
+https://github.com/user-attachments/assets/0af9bb94-8a02-4095-a226-c97118826251
+
+## 3. 급여 검색  
+- 조회 기간, 직급, 부서, 이름을 기준으로 급여 데이터 검색 지원
+![급여관리_조건조회](https://github.com/user-attachments/assets/9d4ed6eb-c80d-494a-8452-61bb4137eec8)
+
+## 4. 급여 등록
+- 직급 및 부서 선택 시 해당 조건에 맞는 직원 조회  
+- 지급 총액 및 공제 총액 입력 시 실지급액 자동 계산
+![급여관리_추가](https://github.com/user-attachments/assets/6e15d851-e3c8-438a-be66-1154a74b8ae4)
+
+## 5. 급여 삭제
+- 체크 박스를 통해 선택된 급여 데이터 삭제  
+- 전체 선택 기능을 통해 현재 페이지의 급여 데이터 일괄 삭제 
+![급여관리_삭제](https://github.com/user-attachments/assets/994f78c9-9f90-4e19-86c3-6485fc07c7c0)
 
 ### 📌주요 기능
 ##### 홈
